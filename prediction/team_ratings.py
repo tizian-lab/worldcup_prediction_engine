@@ -16,7 +16,7 @@ TEAM_ELO_RATINGS = {
     "Congo DR": 1660,
     "Croatia": 1912,
     "Curaçao": 1575,
-    "Czech Republic": 1770,
+    "Czechia": 1700,
     "Ecuador": 1938,
     "Egypt": 1735,
     "England": 2021,

@@ -71,7 +71,7 @@ def blend_probabilities(
     market_home,
     market_draw,
     market_away,
-    model_weight=0.7,
+    model_weight=0.6,
 ):
     market_weight = 1 - model_weight
 
